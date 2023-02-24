@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8pt3kOFqYkbsh8h7L8PRy9Mi+BufadiD7SrxNyrr8mjIltgeuemOfbi+0Ltrj8RhCF8DdJQZt8q2rjhIKSCVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpnic\\Desktop\\JuegoAnimales\\Vista\\Vista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpnic\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\gpnic\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\gpnic\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
